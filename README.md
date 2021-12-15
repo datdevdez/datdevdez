@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dezmocw!
-- 👀 I’m interested in data analytics and coding!
-- 🌱 I’m currently learning python to enhance my data analysis skills and repertoire.
-- 💞️ I’m looking to collaborate on data visualization and python projects.
+- 👋 Hi, I’m @datdevdez!
+- 👀 I’m interested in web and mobile development.
+- 🌱 I’m currently learning web and app development to grow in my skills.
+- 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me ---> LinkedIn: www.linkedin.com/in/dezmond-williams-0053a4216 
 
 <!---
